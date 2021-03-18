@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 40vw;
+  border: 2px solid green;
+  font-size: 16px;
+  padding: 3px;
+  margin: 3px;
+}
